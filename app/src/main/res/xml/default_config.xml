@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<defaultsMap>
+    <entry>
+        <key>appsFlyerAPI</key>
+        <value>https://console5g.online/api/afevent</value>
+    </entry>
+
+    <entry>
+        <key>appsFlyerAppID</key>
+        <value>X8fD3396FTWjLgM3HmSL4L</value>
+    </entry>
+
+    <entry>
+        <key>apiURL</key>
+        <value>https://console5g.online/api/game</value>
+    </entry>
+
+    <entry>
+        <key>policyURL</key>
+        <value>https://jbrsoftapps.com/policy</value>
+    </entry>
+
+    <entry>
+        <key>jsInterface</key>
+        <value>jsBridge</value>
+    </entry>
+
+</defaultsMap>
+
+
